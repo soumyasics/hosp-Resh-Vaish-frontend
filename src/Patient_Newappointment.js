@@ -16,7 +16,7 @@ function Patient_Newappointment() {
     {                        
        setPatientsnewappointment({...Patientsnewappointment,[e.target.name]:e.target.value});
     };
-    console.log(Patientsnewappointment);  
+    console.log("patient ",Patientsnewappointment);  
 
     const subFun=()=>{
         alert("Token request sent");               //submit
