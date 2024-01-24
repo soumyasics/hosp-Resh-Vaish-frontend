@@ -1,0 +1,60 @@
+.Patient-doctor-Body
+{
+    margin-top:5px;
+    background-color: rgb(81, 216, 71);
+    height:600px;
+
+}
+
+.Patient-doctor-schedule-head
+{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: x-large;
+    text-align: center;
+    padding:5px;
+    padding-top:3%;
+    font-weight: bolder;
+    
+}
+
+.Patient-doctor-schedule-table-bordered
+{
+    
+    text-align: center;
+    width:50%;
+    border:1px solid black;
+    margin-left:3%;
+    margin-top:5%;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+    padding:5%;
+    background-color: rgb(192, 228, 192);
+    background-repeat:no-repeat;
+    background-size:100%;
+    border-radius:20px;
+    border: none;
+    text-align: center;
+}
+
+.Patient-doctor-schedule-button1
+{
+    width:90px;
+    height:25px;
+    border-radius:3px;
+    border:none;
+    outline:none;
+    background:rgb(19, 133, 19);
+    color: antiquewhite;
+    margin-top:8%;
+}
+.Patient-doctor-schedule-button2
+{
+    width:90px;
+    height:25px;
+    border-radius:3px;
+    border:none;
+    outline:none;
+    background:rgb(133, 27, 19);
+    color: rgb(250, 229, 215);
+    margin-top:8%;
+}

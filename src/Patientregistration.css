@@ -1,0 +1,282 @@
+.Body
+{
+    background-image:url("C:\Users\Reshma vijay\Desktop\PBV photos\Bgpatientreg.jpg"); 
+    margin:auto; 
+    padding:2%;
+}
+h4
+{
+    font-size:x-large;
+}
+.container
+{
+    width:90%;
+    border:1px black;
+    border-radius: 30px;
+    background-image:url("C:\Users\Reshma vijay\Desktop\PBV photos\Bgpatientreg.jpg"); 
+    font-size:large;
+    font-weight: 500px;
+    font-family: 'Times New Roman', Times, serif;
+    background:transparent;
+    backdrop-filter:blur(10px);
+    padding-top:3%;
+}
+.header
+{
+    
+    font-family: 'Times New Roman', Times, serif;
+    text-align:center;
+    font-weight: bolder;
+    font-size: xx-large;
+}
+.titlebar_div
+{
+    font-family: 'Times New Roman', Times, serif;
+    margin-top:30px;
+    margin-bottom:30px;
+    background-color: rgb(145, 174, 228);
+    
+    
+}
+.Patient_details_div
+{
+    font-family: 'Times New Roman', Times, serif;
+    padding:6px;
+}
+.txtbxfname
+{
+    margin-left:10%;
+    padding: 0.8%;
+    border-radius:5px;
+    border:none;
+    outline:none;
+    margin-top:5px;
+    text-align: center;
+    width:25%;
+}
+.txtbxlname
+{
+    margin-left:10%;
+    padding:.8%;
+    border-radius:5px;
+    border:none;
+    outline:none;
+    text-align: center;
+    width:20%;
+}
+
+.txtbxaddress
+{
+    width:21%;
+    padding:3%;
+    margin:10px;
+    margin-left:13%;
+    border-radius:5px;
+    border:none;
+    outline:none;
+    text-align: left;
+}
+.selectgender
+{
+    width:21%;
+    padding:.5%;
+    margin-left:13.7%;
+    border-radius:5px;
+    border:none;
+    outline:none;
+    text-align: center;
+}
+.txtbxage
+{
+    width:4%;
+    margin-left:16%;
+    margin-top:10px;
+    border-radius:5px;
+    border:none;
+    outline:none;
+    margin-bottom:10px;
+    padding:.5%;
+    
+}
+
+.lbldob
+{
+    margin-left:32%;
+}
+
+.txtbxdob
+{
+    border-radius:5px;
+    text-align: center;
+    border:none;
+    outline:none;
+    padding:.5%;
+    width:11%;
+}
+.selectbloodgroup
+{
+    width:21%;
+    padding:.5%;
+    margin-left:10.4%;
+    margin-top:10px;
+    border-radius:5px;
+    border:none;
+    outline:none;
+    text-align: center;
+}
+.txtbxoccupation
+{
+    width:25%;
+    padding:.8%;
+    margin-left:11%;
+    margin-top:10px;
+    border-radius:5px;
+    border:none;
+    outline:none;
+    text-align: center;
+}
+.lblpswd
+{
+    margin-left:10%;
+}
+.txtpswd
+{
+    margin-left:.5%;
+    margin-top:10px;
+    padding:.8%;
+    border-radius:5px;
+    border:none;
+    outline:none;
+    text-align: center;
+    width:12%;
+
+
+}
+.txtbxemail
+{
+    margin-left:13.3%;
+    margin-top:10px;
+    padding:.8%;
+    border-radius:5px;
+    border:none;
+    outline:none;
+    text-align: center;
+    width:25.2%;
+}
+
+
+.selectguardian
+{
+    width:21%;
+    padding:.5%;
+    margin-left:9.6%;
+    margin-top:10px;
+    border-radius:5px;
+    border:none;
+    outline:none;
+    text-align: center;
+}
+.txtbx_guardian_fname
+{
+    margin-left:8.5%;
+    padding:.8%;
+    border-radius:5px;
+    border:none;
+    outline:none;
+    margin-top:5px;
+    text-align: center;
+    margin-top:10px;
+    margin-bottom:30px;
+    width:25%;
+}
+.txtbx_guardian_lname
+{
+    margin-left:10%;
+    padding:.8%;
+    border-radius:5px;
+    border:none;
+    outline:none;
+    text-align: center;
+    width:22%;
+    margin-top:10px;
+}
+.txtbx_emergency_contact_name
+{
+    margin-left:1.8%;
+    margin-top:10px;
+    padding:.8%;
+    border-radius:5px;
+    border:none;
+    outline:none;
+    text-align: center;
+    width:25%;
+}
+.lbl_relationship
+{
+    margin-left:10%;
+}
+.select_emergency_name
+{
+    width:13.5%;
+    padding:.5%;
+    margin-left:.5%;
+    margin-top:10px;
+    border-radius:5px;
+    border:none;
+    outline:none;
+    text-align: center;
+}
+.select_Identity_proof
+{
+    width:21%;
+    padding:.5%;
+    margin-left:9.6%;
+    margin-top:10px;
+    border-radius:5px;
+    border:none;
+    outline:none;
+    text-align: center;
+}
+.txtbx_Identity_number
+{
+    margin-left:4.5%;
+    margin-top:10px;
+    margin-bottom:20px;
+    padding:.8%;
+    border-radius:5px;
+    border:none;
+    outline:none;
+    text-align: center;
+    width:25%;
+}
+.lbl_Issue_authority
+{
+    margin-left:9%;
+}
+.select_Issue_Authority
+{
+    width:14.5%;
+    padding:.5%;
+    margin-left:1.4%;
+    margin-top:10px;
+    border-radius:5px;
+    border:none;
+    outline:none;
+    text-align: center;
+}
+.btn_Register
+{
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    border-radius:20px;
+    border:none;
+    outline:none;
+    text-align: center;
+    margin-top:40px;
+    margin-left:42%;
+    width:20%;
+    background-color: rgb(10, 146, 10);
+    color: aliceblue;
+
+}

@@ -1,0 +1,159 @@
+.Patient-newappointment-Body
+{
+    width: 100%;
+    padding: 20px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image:url("C:\Users\Reshma vijay\Desktop\PBV photos\hsptl1.jpg");
+
+}
+.Patient-newappointment-head
+{
+    text-align: center;
+    font-family:'Times New Roman', Times, serif;
+    font-weight: 100;
+    font-weight: bolder;
+}
+
+.Patient-newappointment-Maindiv
+{
+    border:1px solid rgb(16, 136, 142);
+    border-radius:20px;
+    margin:auto;
+    width:70%;
+    height:500px;
+    backdrop-filter:blur(20px);
+    background:transparent;
+}
+
+.Patient-newappointment-lbldate
+{
+   padding:5%; 
+   width:10px;
+}
+
+.Patient-newappointment-date
+{
+    width:23%;
+    margin-left:8%;
+    text-align:center;
+    border-radius:20px;
+    border:none;
+    outline:none;
+}
+
+.Patient-newappointment-lbltime
+{
+    padding-left:15.2%;
+
+}
+.Patient-newappointment-time
+{
+    width:23.2%;
+    margin-left:8%;
+    text-align: center;
+    border-radius:20px;
+    border:none;
+    outline:none;
+}
+
+.Patient-newappointment-lbldoctorlist
+{
+    padding-left:5%;
+    width:10px;
+}
+
+.Patient-newappointment-doctorlist
+{
+
+    margin-left:13%;
+    text-align: center;
+    width:23.5%;
+    padding:.3%;
+    border-radius:20px;
+    border:none;
+    outline:none;
+}
+
+.Patient-newappointment-lbldepartment
+{
+    padding-left:15%;
+}
+.Patient-newappointment-department
+{
+
+    margin-left:2.2%;
+    text-align: center;
+    width:23.5%;
+    padding:.3%;
+    border-radius:20px;
+    border:none;
+    outline:none;
+}
+
+.patient-subtitle
+{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: larger;
+    font:bolder;
+    margin-left:5%;
+    margin-top:8%;
+}
+
+.Patient-newappointment-lblpatientname
+{
+    padding:5%;
+
+}
+.Patient-newappointment-patientname
+{
+    width:23.5%;
+    margin-left:2.3%;
+    border-radius:20px;
+    border:none;
+    outline:none;
+}
+
+.Patient-newappointment-lblpatientemail
+{
+    margin-left:4.7%;
+    width:12%;
+}
+.Patient-newappointment-patientemail
+{
+    margin-left:1%;
+    width:23.4%;
+    border-radius:20px;
+    border:none;
+    outline:none;
+}
+.Patient-newappointment-lblpatientcontactno
+{
+    margin-left:15%;
+}
+.Patient-newappointment-patientcontactno
+{
+    margin-left:4%;
+    text-align: center;
+    width:23.5%;
+    padding:.2%;
+    border-radius:20px;
+    border:none;
+    outline:none;
+}
+.Patientbtn
+{
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    border-radius:20px;
+    border:none;
+    outline:none;
+    text-align: center;
+    margin-top:8%;
+    margin-left:42%;
+    width:20%;
+    background-color: rgb(10, 146, 10);
+    color: aliceblue;
+
+}

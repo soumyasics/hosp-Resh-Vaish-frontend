@@ -1,0 +1,73 @@
+.patientlog_Body
+{
+ background-image:url("C:\Users\Reshma vijay\Desktop\PBV photos\log1.jpg");
+    width: 100%;
+    height:600px;
+    padding: 30px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.patientlog_Ul
+{
+    text-align: center;
+    margin:10%;
+    color: antiquewhite;
+}
+.patientlog_maindiv
+{
+    border:1px solid rgb(16, 136, 142);
+    border-radius:20px;
+    margin:auto;
+    width:30%;
+    height:95%;
+    backdrop-filter:blur(20px);
+    background:transparent;
+}
+
+.patientlog_userpswd
+{
+    margin-top:10%;
+    border-radius:20px;
+    border:none;
+    outline:none;
+}
+.patientlog_userpswd_box
+{
+    margin-left:30px;
+    margin-top:5%;
+    width:80%;
+    height:40px;
+    border-radius:20px;
+    border:none;
+    outline:none;
+
+}
+.patientlog_Rememberdiv
+{
+    padding:10px;
+    padding-left:30px;
+}
+.patientlog_FRlink
+{
+    padding-left:15%;
+}
+
+.patientlog_Loginbtn
+{
+    width:60%;
+    height:40px;
+    border-radius:20px;
+    border:none;
+    outline:none;
+    margin-top:50px;
+    margin-left:80px;
+    background-color: rgb(0, 255, 255);
+    font-size: medium;
+    font-weight: 400px;
+}
+.patientlog_Register
+{
+    padding:10px;
+    padding-left:65px;
+    padding-top:10%;
+}
